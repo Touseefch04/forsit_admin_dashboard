@@ -91,8 +91,7 @@ Organized with Vue Router for scalability
 
 JSON file for demo data simulation
 
-📚 Documentation
-See full PDF report here
+
 
 📦 Author
 Developer: Muhammad Touseef
