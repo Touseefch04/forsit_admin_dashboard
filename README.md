@@ -80,8 +80,7 @@ POST	/api/products	Add new product
 PUT	/api/products/:id	Update stock count
 GET	/api/revenue	Get revenue data
 
-📸 Screenshots
-Dashboard	Inventory	Add Product
+
 
 💡 Design Choices
 Used Bootstrap for faster and responsive UI
