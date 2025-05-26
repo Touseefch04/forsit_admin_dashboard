@@ -1,0 +1,13 @@
+{
+  "orders": 120,
+  "sales": 3599.99,
+  "categories": {
+    "Electronics": 2599.99,
+    "Accessories": 1000.00
+  },
+  "trends": [
+    { "date": "2025-05-01", "revenue": 120 },
+    { "date": "2025-05-02", "revenue": 150 },
+    { "date": "2025-05-03", "revenue": 170 }
+  ]
+}

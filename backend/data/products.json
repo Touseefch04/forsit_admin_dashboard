@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse",
+    "price": 29.99,
+    "stock": 50,
+    "image": "mouse.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard",
+    "price": 89.99,
+    "stock": 30,
+    "image": "keyboard.jpg"
+  }
+]
