@@ -9,7 +9,7 @@ This dashboard allows admins to manage product inventory, analyze revenue trends
 ## 🚀 Live Demo
 
 - **Frontend (Netlify):** https://admindashboardforsit.netlify.app/dashboard
-- **Backend (Render):** [https://your-api.onrender.com](#)
+
 
 ---
 
